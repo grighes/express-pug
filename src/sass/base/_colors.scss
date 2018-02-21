@@ -1,0 +1,29 @@
+$white: #fff;
+$gray: #2c3e50;
+$dark-gray: #95a5a6;
+$dark: #2c3e50;
+
+$notice: #3498db;
+$success: #1abc9c;
+$alert: #e74c3c;
+
+// Backgrounds
+.white-bg {
+  background-color: $white;
+}
+.gray-bg {
+  background-color: $gray;
+}
+.dark-gray-bg {
+  background-color: $dark-gray;
+}
+
+.notice-bg {
+  background-color: $notice;
+}
+.success-bg {
+  background-color: $success;
+}
+.alert-bg {
+  background-color: $alert;
+}
